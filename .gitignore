@@ -1,0 +1,47 @@
+# ---------------------------------------------------------------
+# Altium Designer (tested with Altium Designer 20) temp/generated files
+# ---------------------------------------------------------------
+
+# Local backup history (Altium "Local History" zip snapshots)
+History/
+**/History/
+
+# Document preview thumbnails
+__Previews/
+**/__Previews/
+*.SchDocPreview
+*.PcbDocPreview
+*.AnnotationPreview
+*.WASPreview
+
+# Project structure cache (regenerated on compile)
+*.PrjPcbStructure
+*.PrjPCBStructure
+
+# Logs and generated reports
+*.log
+Project Logs for*/
+Design/*.PcbDoc.htm
+Design/*.PcbDoc.html
+Design/Project Outputs for*/
+
+# Lock / autosave / backup files
+*.lck
+*.$$$
+*.~*
+~$*
+*.bak
+*.tmp
+*.orig
+
+# Visual Paradigm backup files
+*.vpp~*
+*.vpp.bak*
+
+# ---------------------------------------------------------------
+# OS files
+# ---------------------------------------------------------------
+Thumbs.db
+ehthumbs.db
+desktop.ini
+.DS_Store
